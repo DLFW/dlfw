@@ -9,7 +9,7 @@
 Most of my own repos are on [Git**Lab**](https://gitlab.com/DLF).
 
 #### My daily drivers
-![Arch Linux](https://img.shields.io/badge/-Arch Linux-282828?&style=for-the-badge&logo=archlinux)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-282828?&style=for-the-badge&logo=archlinux)
 ![AwesomeWM](https://img.shields.io/badge/-AwesomeWM-282828?&style=for-the-badge&logo=awesomewm)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-282828?&style=for-the-badge&logo=neovim)
 ![Kitty](https://img.shields.io/badge/-Kitty-282828?&style=for-the-badge&logo=gnometerminal)
