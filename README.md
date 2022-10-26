@@ -10,7 +10,7 @@ Most of my own repos are on [Git**Lab**](https://gitlab.com/DLF).
 
 #### My daily drivers
 #### Languages (descending from “used daily” to “used 15 years ago” :smile:)
-![Python](https://img.shields.io/badge/-Python-282828?&&style=for-the-badgelogo=python)
+![Python](https://img.shields.io/badge/-Python-282828?&style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-282828?&style=for-the-badge&logo=gnubash)
 ![Rust](https://img.shields.io/badge/-Rust-282828?&style=for-the-badge&logo=rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282828?&style=for-the-badge&logo=javascript)
