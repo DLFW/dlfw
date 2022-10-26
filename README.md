@@ -9,6 +9,12 @@
 Most of my own repos are on [Git**Lab**](https://gitlab.com/DLF).
 
 #### My daily drivers
+![Arch Linux](https://img.shields.io/badge/-Arch Linux-282828?&style=for-the-badge&logo=archlinux)
+![AwesomeWM](https://img.shields.io/badge/-AwesomeWM-282828?&style=for-the-badge&logo=awesomewm)
+![NeoVim](https://img.shields.io/badge/-NeoVim-282828?&style=for-the-badge&logo=neovim)
+![Kitty](https://img.shields.io/badge/-Kitty-282828?&style=for-the-badge&logo=gnometerminal)
+![PyCharm](https://img.shields.io/badge/-PyCharm-282828?&style=for-the-badge&logo=pycharm)
+
 #### Languages (descending from “used daily” to “used 15 years ago” :smile:)
 ![Python](https://img.shields.io/badge/-Python-282828?&style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-282828?&style=for-the-badge&logo=gnubash)
@@ -22,6 +28,11 @@ Most of my own repos are on [Git**Lab**](https://gitlab.com/DLF).
 ![C♯](https://img.shields.io/badge/-C♯-282828?&style=for-the-badge&logo=csharp)
 ![Perl](https://img.shields.io/badge/-Perl-282828?&style=for-the-badge&logo=perl)
 ![Groovy](https://img.shields.io/badge/-Groovy-282828?&style=for-the-badge&logo=apachegroovy)
+![Delphi](https://img.shields.io/badge/-Delphi-282828?&style=for-the-badge&logo=delphi)
+
+#### Non-Software Construction
+
+![KiCad](https://img.shields.io/badge/-KiCad-282828?&style=for-the-badge&logo=kicad)
 
 
 
