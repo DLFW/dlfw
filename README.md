@@ -32,8 +32,7 @@ Most of my own repos are on [Git**Lab**](https://gitlab.com/DLF).
 ![Perl](https://img.shields.io/badge/-Perl-282828?&style=for-the-badge&logo=perl)
 ![Groovy](https://img.shields.io/badge/-Groovy-282828?&style=for-the-badge&logo=apachegroovy)
 ![Delphi](https://img.shields.io/badge/-Delphi-282828?&style=for-the-badge&logo=delphi)
-![Turbo Pascal](https://img.shields.io/badge/-Turbo_Pascal-282828?&style=for-the-badge&logo=data:image/png;base64;
-iVBORw0KGgoAAAANSUhEUgAAABIAAAAOCAYAAAAi2ky3AAAACXBIWXMAAASGAAAEhgG8E1JjAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAARRJREFUKJHlkjFLQmEUhp/309SgUa5FBE1RQ5iDk0NLP+BORRA0FdR/cAiaWmtqCqIxun+gn1DdwE2EJBqyHAq6Fth3GiLIQZQce9fznOdwDkcb5W1jQLrPQC+VCO69dJmie5AU28004ug3IWPFYN7EqeAFAGMHeAU7lskhKxgqy2zXk1rP3uQrCsOwZ9TEQ3ACbHqnuWTqsQ6Qi4MORu291Cr/cFEUaW12qyq0ZxC5QWv1SxiGtnA3vQ+8CZb/LAKIw9gDbSAzkmj8Nl8AZoDan0WZ68mKoXNAZnaYHrpTLObioAGMAQHOZ/Hq4lT9WGqdDS/6/p0rAC89ObO63OdFUmw3AYYXGY1OqbXarzzSsf+J6At9llokPyaMxAAAAABJRU5ErkJggg==)
+![Turbo Pascal](https://img.shields.io/badge/-Turbo_Pascal-282828?&style=for-the-badge&logo=data:image/png;base64;iVBORw0KGgoAAAANSUhEUgAAABIAAAAOCAYAAAAi2ky3AAAACXBIWXMAAASGAAAEhgG8E1JjAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAARRJREFUKJHlkjFLQmEUhp/309SgUa5FBE1RQ5iDk0NLP+BORRA0FdR/cAiaWmtqCqIxun+gn1DdwE2EJBqyHAq6Fth3GiLIQZQce9fznOdwDkcb5W1jQLrPQC+VCO69dJmie5AU28004ug3IWPFYN7EqeAFAGMHeAU7lskhKxgqy2zXk1rP3uQrCsOwZ9TEQ3ACbHqnuWTqsQ6Qi4MORu291Cr/cFEUaW12qyq0ZxC5QWv1SxiGtnA3vQ+8CZb/LAKIw9gDbSAzkmj8Nl8AZoDan0WZ68mKoXNAZnaYHrpTLObioAGMAQHOZ/Hq4lT9WGqdDS/6/p0rAC89ObO63OdFUmw3AYYXGY1OqbXarzzSsf+J6At9llokPyaMxAAAAABJRU5ErkJggg==)
 ![Basic](https://img.shields.io/badge/-Basic-282828?&style=for-the-badge&logo=commodore)
 
 #### Non-Software Construction
