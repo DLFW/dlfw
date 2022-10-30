@@ -6,7 +6,7 @@
 * Currently have a crush on Rust :crab:, for which I'm trying to find some time to get into it.
 * Hail from the west but now living in the south of Germany :de:.
 
-Most of my own repos are on [Git**Lab**](https://gitlab.com/DLF)<img src="https://simpleicons.org/icons/gitlab.svg" style="height: 0.9em">.
+Most of my own repos are on [Git**Lab**](https://gitlab.com/DLF).
 
 #### My daily drivers
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-282828?&style=for-the-badge&logo=archlinux)
